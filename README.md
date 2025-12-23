@@ -125,6 +125,7 @@ cal1/
 - [PRD (제품 요구사항 문서)](./Docs/PRD.md)
 - [Tech Spec (기술 명세서)](./Docs/TECH_SPEC.md)
 - [배포 가이드](./Docs/DEPLOYMENT.md)
+- [작업 목록 (TASKS)](./Docs/TASKS.md) ⭐
 
 ## 📐 개발 규칙
 
