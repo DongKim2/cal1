@@ -134,7 +134,8 @@ cal1/
 ### 🧪 TDD (Test-Driven Development)
 코어 로직(`src/core/`, `src/state/`, `src/utils/`)은 TDD 방식으로 개발합니다.
 - **Red-Green-Refactor** 사이클 준수
-- 테스트 커버리지 목표: **90%+**
+- 테스트 커버리지 목표: **90%+** (코어 로직만)
+- **UI 컴포넌트는 자동화 테스트 제외** (수동 테스트만)
 - 상세 가이드: [RULES_TDD.md](./Docs/RULES_TDD.md)
 
 ### 🏗️ SOLID 원칙
